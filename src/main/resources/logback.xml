@@ -10,7 +10,7 @@
     <logger name="net.rubyeye" level="INFO" />
 
     <!-- for Apache http client -->
-    <logger name="org.apache.http.wire" level="DEBUG"/>
+    <logger name="org.apache.http.wire" level="INFO"/>
 
     <root level="debug">
         <appender-ref ref="STDOUT" />
